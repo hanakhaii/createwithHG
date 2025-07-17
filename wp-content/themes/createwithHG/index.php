@@ -56,32 +56,33 @@ Template Name: Home Page createwithHG
                 <h1>Galuh M.</h1>
             </div>
             <div class="galuh-skill">
-                <p>Galuh memiliki keahlian utama di bidang pengembangan backend website, dengan fokus pada penggunaan PHP dan pengelolaan database SQL. Ia mampu membangun sistem dan logika di balik tampilan web dengan struktur yang efisien, aman, dan fungsional. Selain itu, Galuh juga menguasai HTML, CSS, dan JavaScript untuk kebutuhan integrasi antar bagian website. Di luar pengembangan web, Galuh memiliki
-                    kemampuan dalam editing video menggunakan CapCut, serta desain grafis dan UI menggunakan Figma dan Canva, yang memperkuat sisi visual dari proyek yang dikerjakan.</p>
+                <p>
+                    Galuh ahli dalam pengembangan backend website, khususnya menggunakan PHP dan SQL untuk membangun sistem yang efisien dan aman. Ia juga menguasai HTML, CSS, dan JavaScript untuk integrasi antarmuka. Di bidang kreatif, Galuh mahir menggunakan CapCut untuk editing video serta Figma dan Canva untuk desain grafis dan UI.
+                </p>
                 <div class="poto-skill">
                     <div class="img-skill">
-                        <img src="" alt="html"> <br>
-                        <label for="">*%</label>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/htmlhitam.png"> <br>
+                        <label for="">40%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="css"> <br>
-                        <label for="">*%</label>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/csshitam.png" alt="css"> <br>
+                        <label for="">20%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="php"> <br>
-                        <label for="">*%</label>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/phphitam.png" alt="php"> <br>
+                        <label for="">10%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="js"> <br>
-                        <label for="">*%</label>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/jshitam.png" alt="js"> <br>
+                        <label for="">5%</label>
+                    </div>
+                    <div class="img-skill-capcut">
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/capcut_white.jpg" alt="capcut"> <br>
+                        <label for="">10%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="capcut"> <br>
-                        <label for="">*%</label>
-                    </div>
-                    <div class="img-skill">
-                        <img src="" alt="figma"> <br>
-                        <label for="">*%</label>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/figmaputih.png" alt="figma"> <br>
+                        <label for="">15%</label>
                     </div>
                 </div>
             </div>
@@ -92,33 +93,31 @@ Template Name: Home Page createwithHG
             </div>
             <div class="hana-skill">
                 <p>
-                    Hanaa berperan sebagai pengembang frontend dengan keahlian utama dalam HTML, CSS, dan JavaScript, Java XML menjadikannya sosok yang bertanggung jawab atas tampilan dan interaksi pengguna di dalam website. Ia memiliki ketelitian
-                    dalam menyusun antarmuka yang estetis, responsif, dan user-friendly. Selain itu, Hanaa juga memahami penggunaan PHP untuk menyempurnakan fungsionalitas di sisi klien. Sama seperti Galuh,
-                    Hanaa juga memiliki bakat dalam desain menggunakan Canva dan Figma, serta editing konten visual menggunakan CapCut, yang menunjang pembuatan konten digital tim mereka.
+                    Hanaa adalah pengembang frontend yang ahli dalam HTML, CSS, JavaScript, dan Java XML, dengan fokus pada tampilan dan interaksi pengguna yang estetis dan responsif. Ia juga memahami PHP untuk mendukung fungsionalitas klien. Selain itu, Hanaa mahir dalam desain menggunakan Canva dan Figma serta editing visual dengan CapCut, mendukung pembuatan konten digital tim.
                 </p>
                 <div class="poto-skill">
                     <div class="img-skill">
-                        <img src="" alt="html"> <br>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/htmlputih.png" alt="html"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="css"> <br>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/cssputih.png" alt="css"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="php"> <br>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/phpputih.png" alt="php"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="js"> <br>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/jsputih.png" alt="js"> <br>
+                        <label for="">*%</label>
+                    </div>
+                    <div class="img-skill-capcut">
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/capcut_dark.png" alt="capcut"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="capcut"> <br>
-                        <label for="">*%</label>
-                    </div>
-                    <div class="img-skill">
-                        <img src="" alt="figma"> <br>
+                        <img src="<?php echo get_template_directory_uri(); ?>/asset/img/figmahtam.png" alt="figma"> <br>
                         <label for="">*%</label>
                     </div>
                 </div>
