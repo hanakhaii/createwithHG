@@ -53,7 +53,7 @@ Template Name: Home Page createwithHG
         <h1 class="judul-skill">Our Skill</h1>
         <div class="galuh">
             <div class="name">
-                <h1>Galuh M.</h1>
+                <h2>Galuh M.</h2>
             </div>
             <div class="galuh-skill">
                 <p>Galuh memiliki keahlian utama di bidang pengembangan backend website, dengan fokus pada penggunaan PHP dan pengelolaan database SQL. Ia mampu membangun sistem dan logika di balik tampilan web dengan struktur yang efisien, aman, dan fungsional. Selain itu, Galuh juga menguasai HTML, CSS, dan JavaScript untuk kebutuhan integrasi antar bagian website. Di luar pengembangan web, Galuh memiliki
@@ -88,7 +88,7 @@ Template Name: Home Page createwithHG
         </div>
         <div class="hanaa">
             <div class="name">
-                <h1>Hana K.</h1>
+                <h2>Hana K.</h2>
             </div>
             <div class="hana-skill">
                 <p>
