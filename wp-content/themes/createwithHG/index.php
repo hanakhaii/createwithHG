@@ -53,7 +53,7 @@ Template Name: Home Page createwithHG
         <h1 class="judul-skill">Our Skill</h1>
         <div class="galuh">
             <div class="name">
-                <h1>Galuh M.</h1>
+                <h2>Galuh M.</h2>
             </div>
             <div class="galuh-skill">
                 <p>
@@ -89,7 +89,7 @@ Template Name: Home Page createwithHG
         </div>
         <div class="hanaa">
             <div class="name">
-                <h1>Hana K.</h1>
+                <h2>Hana K.</h2>
             </div>
             <div class="hana-skill">
                 <p>
