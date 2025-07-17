@@ -19,12 +19,12 @@ Template Name: Home Page createwithHG
     <header>
         <h3>creativewithHG</h3>
         <aside>
-            <div class="">
+            <div class="judul1">
                 <h1>Hana K.</h1>
                 <p>i love you moree</p>
             </div>
-            <div class="">
-                <h1>Galuh M.</h1>
+            <div class="judul2">
+                <h1>Galuh MTP</h1>
                 <p>i love you</p>
             </div>
         </aside>
@@ -50,7 +50,7 @@ Template Name: Home Page createwithHG
 
     <!-- secondary section -->
     <section class="skill">
-        <h1>Our Skill</h1>
+        <h1 class="judul-skill">Our Skill</h1>
         <div class="galuh">
             <div class="name">
                 <h1>Galuh M.</h1>
@@ -60,27 +60,27 @@ Template Name: Home Page createwithHG
                     kemampuan dalam editing video menggunakan CapCut, serta desain grafis dan UI menggunakan Figma dan Canva, yang memperkuat sisi visual dari proyek yang dikerjakan.</p>
                 <div class="poto-skill">
                     <div class="img-skill">
-                        <img src="" alt="html">
+                        <img src="" alt="html"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="css">
+                        <img src="" alt="css"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="php">
+                        <img src="" alt="php"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="js">
+                        <img src="" alt="js"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="capcut">
+                        <img src="" alt="capcut"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="figma">
+                        <img src="" alt="figma"> <br>
                         <label for="">*%</label>
                     </div>
                 </div>
@@ -92,33 +92,33 @@ Template Name: Home Page createwithHG
             </div>
             <div class="hana-skill">
                 <p>
-                    Hanaa berperan sebagai pengembang frontend dengan keahlian utama dalam HTML, CSS, dan JavaScript, Java XML menjadikannya sosok yang bertanggung jawab atas tampilan dan interaksi pengguna di dalam website. Ia memiliki ketelitian 
-                    dalam menyusun antarmuka yang estetis, responsif, dan user-friendly. Selain itu, Hanaa juga memahami penggunaan PHP untuk menyempurnakan fungsionalitas di sisi klien. Sama seperti Galuh, 
+                    Hanaa berperan sebagai pengembang frontend dengan keahlian utama dalam HTML, CSS, dan JavaScript, Java XML menjadikannya sosok yang bertanggung jawab atas tampilan dan interaksi pengguna di dalam website. Ia memiliki ketelitian
+                    dalam menyusun antarmuka yang estetis, responsif, dan user-friendly. Selain itu, Hanaa juga memahami penggunaan PHP untuk menyempurnakan fungsionalitas di sisi klien. Sama seperti Galuh,
                     Hanaa juga memiliki bakat dalam desain menggunakan Canva dan Figma, serta editing konten visual menggunakan CapCut, yang menunjang pembuatan konten digital tim mereka.
                 </p>
                 <div class="poto-skill">
                     <div class="img-skill">
-                        <img src="" alt="html">
+                        <img src="" alt="html"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="css">
+                        <img src="" alt="css"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="php">
+                        <img src="" alt="php"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="js">
+                        <img src="" alt="js"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="capcut">
+                        <img src="" alt="capcut"> <br>
                         <label for="">*%</label>
                     </div>
                     <div class="img-skill">
-                        <img src="" alt="figma">
+                        <img src="" alt="figma"> <br>
                         <label for="">*%</label>
                     </div>
                 </div>
@@ -129,14 +129,14 @@ Template Name: Home Page createwithHG
     <!-- third section -->
     <section class="experience">
         <div class="hana-experience">
-        <h1>Hana K.</h1>
+            <h1>Hana K.</h1>
             <div>
                 <p>Nov, 2024</p>
                 <h5>jakjsaskhskaj</h5>
             </div>
         </div>
         <div class="galuh-experience">
-        <h1>Galuh M.</h1>
+            <h1>Galuh M.</h1>
             <div>
                 <p>Nov, 2024</p>
                 <h5>jakjsaskhskaj</h5>
