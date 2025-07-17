@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Londrina+Solid:wght@100;300;400;900&display=swap');
+
 h1 {
+    font-family: "Londrina Solid", sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
     color: green;
+}
+
+p {
+    text-align: center;
+    font-family: "Francois One", sans-serif;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-style: normal;
 }

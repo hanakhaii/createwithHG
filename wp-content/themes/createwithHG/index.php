@@ -1,5 +1,7 @@
 <?php
-
+/*
+Template Name: Home Page createwithHG
+*/
 ?>
 
 <!DOCTYPE html>
@@ -9,7 +11,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>creativewithHG</title>
 </head>
 
 <body>
@@ -22,7 +24,7 @@
                 <p>i love you moree</p>
             </div>
             <div class="">
-                <h1>Galuh MTP</h1>
+                <h1>Galuh M.</h1>
                 <p>i love you</p>
             </div>
         </aside>
@@ -126,19 +128,32 @@
 
     <!-- third section -->
     <section class="experience">
-        
+        <div class="hana-experience">
+        <h1>Hana K.</h1>
+            <div>
+                <p>Nov, 2024</p>
+                <h5>jakjsaskhskaj</h5>
+            </div>
+        </div>
+        <div class="galuh-experience">
+        <h1>Galuh M.</h1>
+            <div>
+                <p>Nov, 2024</p>
+                <h5>jakjsaskhskaj</h5>
+            </div>
+        </div>
     </section>
 
     <!-- fourth section -->
     <section class="project">
-        
+        <h1>Our Project</h1>
+        <a href="<?php echo get_template_directory_uri(); ?>/project.php"> → </a>
     </section>
 
     <footer>
-
+        <h1>creativewithHG</h1>
+        <p>creativewithHG@gmail.com</p>
     </footer>
-
-    <a href="<?php echo get_template_directory_uri(); ?>/project.php">here</a>
 </body>
 
 </html>
